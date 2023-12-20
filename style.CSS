@@ -92,3 +92,11 @@ body  {
     0 0 400px rgba(0, 255, 0, 0.8),
     0 0 500px rgba(0, 255, 0, 1);
 }
+@media {
+    .cube {
+        display:block;
+        min-width:200px;
+        min-height: 140px;
+
+    }
+}
